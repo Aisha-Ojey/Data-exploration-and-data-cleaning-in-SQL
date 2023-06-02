@@ -1,4 +1,4 @@
---Covid 19 Data Exploration as at may 2021, using the filtered dataset gotten from *******
+--Covid 19 Data Exploration as at may 2021, using the filtered dataset gotten from https://ourworldindata.org/covid-deaths
 --Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 Select *
